@@ -1,6 +1,6 @@
 
 body{
-  
+  background: pink;
 }
 .divOne{
   height: 300px;
@@ -9,7 +9,6 @@ body{
   background: gray;
 }
 .divTwo{
-
   height: 300px;
   width: 500px;
   margin: 20px auto;
